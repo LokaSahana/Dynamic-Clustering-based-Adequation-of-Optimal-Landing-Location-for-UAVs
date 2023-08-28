@@ -1,0 +1,1 @@
+# Dynamic-Clustering-based-Adequation-of-Optimal-Landing-Location-for-UAVs
